@@ -1,0 +1,4 @@
+name: myheader
+import: github.com/luguoguo/GoPlugin
+package: GoPlugin
+summary: 'myheader from GoPlugin'
