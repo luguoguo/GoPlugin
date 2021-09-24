@@ -10,5 +10,5 @@ func New() http.Handler {
 }
 
 func (this *AddHeader) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-	w.Header().Add("name", "myjobs")
+	w.Header().Add("name", "myjobs2")
 }
